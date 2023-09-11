@@ -1,9 +1,9 @@
 import React from "react";
-import link from '../project_files/Vector_4.png'
-import link1 from '../project_files/Vector_1.png'
-import link2 from '../project_files/Vector_2.png'
-import link3 from '../project_files/Vector_3.png'
-import link4 from '../project_files/users.png'
+import link from '../flowbite/project_files/Vector_4.png'
+import link1 from '../flowbite/project_files/Vector_1.png'
+import link2 from '../flowbite/project_files/Vector_2.png'
+import link3 from '../flowbite/project_files/Vector_3.png'
+import link4 from '../flowbite/project_files/users.png'
 
 
 const Layer4 = () => {

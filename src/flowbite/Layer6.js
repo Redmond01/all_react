@@ -1,5 +1,5 @@
 import React from "react";
-import pics from '../project_files/Vector.png'
+import pics from '../flowbite/project_files/Vector.png'
 
 const Layer6  = () => {
   return(

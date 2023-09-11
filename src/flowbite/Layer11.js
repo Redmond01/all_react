@@ -1,9 +1,9 @@
 import React from "react";
-import logo from '../project_files/logo.png'
-import git from '../project_files/github.png'
-import x from '../project_files/twitter.png'
-import dribble from '../project_files/dribbble.png'
-import facebook from '../project_files/facebook-f.png'
+import logo from '../flowbite/project_files/logo.png'
+import git from '../flowbite/project_files/github.png'
+import x from '../flowbite/project_files/twitter.png'
+import dribble from '../flowbite/project_files/dribbble.png'
+import facebook from '../flowbite/project_files/facebook-f.png'
 
 
 const Layer11 = () => {

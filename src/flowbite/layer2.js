@@ -1,10 +1,10 @@
 import React from "react";
-import microsoft from '../project_files/Microsoft.png'
-import google from '../project_files/Google.png'
-import airbnb from '../project_files/Airbnb.png'
-import spotify from '../project_files/Spotify.png'
-import malichmip from '../project_files/Mailchimp.png'
-import uber from '../project_files/uber.png'
+import microsoft from '../flowbite/project_files/Microsoft.png'
+import google from '../flowbite/project_files/Google.png'
+import airbnb from '../flowbite/project_files/Airbnb.png'
+import spotify from '../flowbite/project_files/Spotify.png'
+import malichmip from '../flowbite/project_files/Mailchimp.png'
+import uber from '../flowbite/project_files/uber.png'
 
 const Layer2 = () => {
   return(

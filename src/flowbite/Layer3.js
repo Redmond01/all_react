@@ -1,6 +1,7 @@
 import React from "react";
-import tick from '../project_files/Vector.png'
-import page from '../project_files/features-11.png'
+import tick from '../flowbite/project_files/Vector.png'
+import page from '../flowbite/project_files/features-11.png'
+
 
 
 const Layer3= () => {

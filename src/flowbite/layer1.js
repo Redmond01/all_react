@@ -1,5 +1,5 @@
 import React from "react";
-import pic from '../project_files/marketing-strategy1.png'
+import pic from '../flowbite/project_files/mainpage.png'
 
 const Layer1= () => {
   return(

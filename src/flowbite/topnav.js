@@ -1,6 +1,6 @@
 
 import React from 'react'
-import logo from '../project_files/logo.png'
+import logo from '../flowbite/project_files/logo.png'
 
 const  Topnav= () => {
   return(
