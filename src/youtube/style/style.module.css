@@ -1,0 +1,17 @@
+.scroll{
+    height: 11.5rem;
+    width: 100%;
+    overflow-y: scroll;
+}
+.scroll::-webkit-scrollbar{
+    display: none;
+}
+
+.scroll1{
+    height: 23em;
+    width: 100%;
+    overflow-y: scroll;
+}
+.scroll1::-webkit-scrollbar{
+    display: none;
+}

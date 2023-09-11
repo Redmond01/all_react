@@ -1,0 +1,22 @@
+[
+    {
+        "name":"folarin",
+        "age":23,
+        "school":"glolrious acedemy"
+    },
+    {
+        "name":"bidemi",
+        "age":20,
+        "school":"favour acedemy"
+    },
+    {
+        "name":"bayo",
+        "age":21,
+        "school":"mavelous acedemy"
+    },
+    {
+        "name":"ibukun",
+        "age":20,
+        "school":"preciolus acedemy"
+    }
+]

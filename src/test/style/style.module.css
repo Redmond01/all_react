@@ -1,0 +1,17 @@
+
+.inner{
+    background-color: yellow;
+    display: inline-block;
+    width: 10rem;
+}
+.inner>div{
+    display: none;
+    background-color: aqua;
+}
+.inner:hover div:hover{
+    background-color: blue;
+}
+.inner:hover div{
+    display: block;
+    background-color: gray;
+}
