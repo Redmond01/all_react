@@ -8,7 +8,7 @@ import reportWebVitals from './reportWebVitals';
 import Villamond from './villamond/App1'
 // import Youtube from './youtube/youtube'
 // import Prototype from './test/prototype'
-import Jossy from './jossyWatch/app'
+// import Jossy from './jossyWatch/app'
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
